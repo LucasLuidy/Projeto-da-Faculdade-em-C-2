@@ -7,7 +7,7 @@ Desenvolvi este programa em C para classificar gatos com base no índice PGCF (�
 - Linguagem C  
 - Funções de cálculo e controle de fluxo (loops, condições)
 
-#### 📚 **O que aprendi/desenvolvi**  
+📚 **O que aprendi/desenvolvi**  
 - Validação de entradas do usuário para garantir dados corretos  
 - Implementação de cálculos matemáticos e categorização dos resultados  
 - Uso de loops e condições para repetir e organizar os dados  
