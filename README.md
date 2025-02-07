@@ -1,4 +1,4 @@
-**Classificação de Peso de Gatos (PGCF)**
+**Calculadora de Índice de Condição Física para Gatos em Linguagem C**
 
 📌 **Objetivo do Projeto**  
 Desenvolvi este programa em C para classificar gatos com base no índice PGCF (Índice de Gato com Base na Circunferência Torácica e Distância entre o Calcâneo e a Patela). Ele calcula o PGCF de cada gato e os categoriza em três grupos: abaixo do peso, peso ideal e acima do peso, além de calcular a média de PGCF de cada categoria.
